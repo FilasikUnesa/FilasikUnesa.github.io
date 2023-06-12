@@ -1,4 +1,3 @@
-
 function Suhu(){
 	aturCanvas();
 	setJudul("Suhu dan Konversi Suhu.js");
